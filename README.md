@@ -24,3 +24,8 @@ The prune option will uninstall any dependencies that were removed from `environ
 
 ### 3. Using the notebook
 Once your Conda environment is activated, you are ready to use the notebook!
+
+
+Example clone and commit process:
+![alt text](image.png)
+![alt text](image-1.png)
