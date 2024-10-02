@@ -1,4 +1,7 @@
 ## How to use this repository
+
+The MIT license is used in this repository for easy reproducibility.
+``
 ### 1. Use Git to clone the repo:
 
 `git clone https://github.com/UW-MLGEO/MLGEO2024_jensencc`
