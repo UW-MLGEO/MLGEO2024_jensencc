@@ -2,7 +2,8 @@
 
 The MIT license is used in this repository for easy reproducibility.
 ``
-### 1. Use Git to clone the repo:
+
+### 1. Use Git to clone the repo
 
 `git clone https://github.com/UW-MLGEO/MLGEO2024_jensencc`
 
@@ -24,8 +25,8 @@ conda env update -f environment.yml --prune
 The prune option will uninstall any dependencies that were removed from `environment.yml`.
 </details>
 
-
 ### 3. Using the notebook
+
 Once your Conda environment is activated, you are ready to use the notebook!
 
 ---
